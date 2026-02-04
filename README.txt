@@ -18,7 +18,7 @@
 
   The full list of changes, system requirements and related can be found at https://maven.apache.org/docs/history.html.
 
-  Installing Maven
+  Installing Maven .
   ----------------
 
   For complete documentation see https://maven.apache.org/download.html#Installation
